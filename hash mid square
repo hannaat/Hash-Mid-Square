@@ -18,7 +18,7 @@ int main( )
    cout << "Masukkan nomer anda? = N = ";
    cin >> iNumber;
 
-   cout << endl << "Enter the Limit = K = ";
+   cout << endl << "Masukkan batas Anda? = K = ";
    cin >> iLimit;
 
    unsigned long lNumber = powl(iNumber, 2);
