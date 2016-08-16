@@ -1,18 +1,18 @@
 # include <iostream.h>
- # include <string.h>
- # include <stdlib.h>
- # include <conio.h>
- # include <math.h>
+# include <string.h>
+# include <stdlib.h>
+# include <conio.h>
+# include <math.h>
 
 
- int main( )
- {
-    clrscr( );
+int main( )
+{
+   clrscr( );
 
-    cout << endl << "Mid-Square Hashing Method" << endl;
-    cout << "*************************" << endl << endl;
+   cout << endl << "Mid-Square Hashing Method" << endl;
+   cout << "*************************" << endl << endl;
 
-    unsigned int iNumber = 0;
+   unsigned int iNumber = 0;
     unsigned int iLimit = 0;
 
     cout << "Enter the Number = N = ";
