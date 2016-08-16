@@ -39,7 +39,7 @@ int main( )
       iLength = (strlen(sNumber) - 1);
 
       if ( (i % 2) == 0)
-       {
+      {
       strset(sTemp, NULL);
       strncpy(sTemp, sNumber, iLength);
 
