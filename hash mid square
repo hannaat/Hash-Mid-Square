@@ -59,7 +59,7 @@ int main( )
       }
    }
 
-    int iHashKey = atoi(sNumber);
+   int iHashKey = atoi(sNumber);
 
     cout << endl << "Hashing Key = " << iHashKey;
 
