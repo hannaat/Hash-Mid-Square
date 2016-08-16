@@ -48,7 +48,7 @@ int main( )
       }
 
       else
-       {
+      {
       strrev(sNumber);
       strset(sTemp, NULL);
       strncpy(sTemp, sNumber, iLength);
