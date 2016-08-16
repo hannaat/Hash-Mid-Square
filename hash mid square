@@ -30,7 +30,7 @@ int main( )
    int iCount = (strlen(sNumber) - iLimit);
    int iLength = 0;
 
-    char sTemp[30] = {NULL};
+   char sTemp[30] = {NULL};
 
     cout << endl << "K * K = "<< lNumber << endl;
 
