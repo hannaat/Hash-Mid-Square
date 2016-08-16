@@ -23,7 +23,7 @@ int main( )
 
    unsigned long lNumber = powl(iNumber, 2);
 
-    char sNumber[50] = {NULL};
+   char sNumber[50] = {NULL};
 
     ultoa(lNumber, sNumber, 10);
 
