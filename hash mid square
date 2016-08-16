@@ -25,7 +25,7 @@ int main( )
 
    char sNumber[50] = {NULL};
 
-    ultoa(lNumber, sNumber, 10);
+   ultoa(lNumber, sNumber, 10);
 
     int iCount = (strlen(sNumber) - iLimit);
     int iLength = 0;
