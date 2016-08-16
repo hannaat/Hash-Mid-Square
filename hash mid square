@@ -57,7 +57,7 @@ int main( )
       strset(sNumber, NULL);
       strcpy(sNumber, sTemp);
       }
-    }
+   }
 
     int iHashKey = atoi(sNumber);
 
