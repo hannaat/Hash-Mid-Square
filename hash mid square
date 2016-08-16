@@ -27,7 +27,7 @@ int main( )
 
    ultoa(lNumber, sNumber, 10);
 
-    int iCount = (strlen(sNumber) - iLimit);
+   int iCount = (strlen(sNumber) - iLimit);
     int iLength = 0;
 
     char sTemp[30] = {NULL};
