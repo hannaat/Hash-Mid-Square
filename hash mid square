@@ -18,8 +18,8 @@ int main( )
    cout << "Enter the Number = N = ";
    cin >> iNumber;
 
-    cout << endl << "Enter the Limit = K = ";
-    cin >> iLimit;
+   cout << endl << "Enter the Limit = K = ";
+   cin >> iLimit;
 
     unsigned long lNumber = powl(iNumber, 2);
 
