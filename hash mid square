@@ -13,7 +13,7 @@ int main( )
    cout << "*************************" << endl << endl;
 
    unsigned int iNumber = 0;
-    unsigned int iLimit = 0;
+   unsigned int iLimit = 0;
 
     cout << "Enter the Number = N = ";
     cin >> iNumber;
